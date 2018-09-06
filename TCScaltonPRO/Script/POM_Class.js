@@ -1,6 +1,6 @@
 ﻿class POM_Class
 {
-	construnctor(){
+	constructor(){
 		initiallizeLocators();
 	}
 	
