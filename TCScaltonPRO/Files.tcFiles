@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Root signature="{AA2F3067-5C9B-4CCF-89D4-1F93CE1C510F}" version="12.0">
+	<children>
+		<child name="TestWorkBook_xlsx" key="{63391B43-72F9-4DC1-8838-920F5B2D140B}" type="File" typeId="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" pluginName="Stores">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="12.0" caption="TestWorkBook_xlsx" ID="{63391B43-72F9-4DC1-8838-920F5B2D140B}" FileName="Stores\Files\TestWorkBook.xlsx" Update="True" />
+		</child>
+		<child name="ProjectSettings_ini" key="{0B442F4D-CBAE-4085-BF04-A380676793BA}" type="File" typeId="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" pluginName="Stores">
+			<data signature="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}" version="12.0" caption="ProjectSettings_ini" ID="{0B442F4D-CBAE-4085-BF04-A380676793BA}" FileName="Stores\Files\ProjectSettings.ini" Update="True" />
+		</child>
+	</children>
+	<folders />
+</Root>
