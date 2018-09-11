@@ -25,7 +25,7 @@
 				<Node name="{8ee82d46-af98-4371-988c-39e367c94873}"/>
 			</Node>
 			<Node name="{24b6fa0b-0143-461a-9758-aeb9e9a9428b}">
-				<Prp name="activity" type="S" value="{0351FFE3-067D-43DF-BCE6-136B83D179F0}"/>
+				<Prp name="activity" type="S" value="{AA5AAB96-96EE-4A1C-BDC2-AB0008078C4F}"/>
 			</Node>
 			<Node name="{2c786620-2489-4cbb-9c1e-1a94437a9245}"/>
 			<Node name="{415b5aa1-c6ac-4d4d-9a53-063a521a45ab}">
@@ -80,9 +80,7 @@
 						</Node>
 					</Node>
 				</Node>
-				<Node name="tcscaltonpro logs">
-					<Node name="tcscaltonpro logs"/>
-				</Node>
+				<Node name="tcscaltonpro logs"/>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{8EBE6EB3-803D-4913-AD7A-D71552123A67}"/>
