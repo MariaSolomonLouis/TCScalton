@@ -2,7 +2,7 @@
 
 function Test1(){
 	try{
-		var pom_class = new POM_Class();
+		pom_class = new POM_Class();
 		
 		var sMessage = pom_class.TestVariable;
 		
