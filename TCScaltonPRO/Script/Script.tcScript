@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
-	<children />
+	<children>
+		<child name="POM_Class" key="{51E56E4C-7A01-424A-B57F-B6093C16E929}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="POM_Class.js" />
+		</child>
+		<child name="Reusable" key="{B8669113-2D55-4C83-B57C-B81C664D7627}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Reusable.js" />
+		</child>
+		<child name="Test_Class" key="{0B2D1605-8E88-4CB3-A1C0-0F0683DD24F9}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Test_Class.js" />
+		</child>
+	</children>
 	<folders />
 </Root>
