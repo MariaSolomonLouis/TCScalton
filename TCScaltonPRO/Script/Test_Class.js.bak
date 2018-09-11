@@ -3,8 +3,6 @@
 function Test1(){
 	try{
 		var pom_class = new POM_Class();
-    
-    var test = pom_class.MY_CONST;
 		
 		var sMessage = pom_class.TestVariable();
 		

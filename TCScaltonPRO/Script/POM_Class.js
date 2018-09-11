@@ -1,12 +1,22 @@
 ﻿class POM_Class
 {   
 	constructor(){
-		initiallizeLocators();
-	}
-	
+		this.initiallizeLocators();
+  }
+    
+  get MY_CONST() { return 'mystring'; } 
+  
+  getObject(){
+    var test =  function(){
+      return "Hello";
+    }
+    
+    return test;
+  }
+  
 	initiallizeLocators()
 	{
-		this.TestVariable = "Hello";
+		this.TestVariable = this.getObject();
 	}
 	
 	print(sMsg){

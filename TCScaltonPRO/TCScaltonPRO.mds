@@ -4,15 +4,6 @@
 		<child name="Stores" key="{3857AF9E-2906-442F-9911-0870BFBB2C56}" type="Stores" typeId="{5238AF17-5FE2-48FF-8BCC-9803A975A4F4}" pluginName="Stores">
 			<data path="Stores\Stores.tcStores" />
 		</child>
-		<child name="TestedApps" key="{308BCEE2-6094-4425-A524-E30034884E25}" type="Tested Applications" typeId="{90D101C8-80C7-48D4-9055-2E451B9BCD75}" pluginName="">
-			<data path="TestedApps\TestedApps.tcTAs" />
-		</child>
-		<child name="NameMapping" key="{B449C83B-5CB5-4DB2-81DD-89147E8471FE}" type="Name Mapping" typeId="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" pluginName="NameMapping">
-			<data path="NameMapping\NameMapping.tcNM" />
-		</child>
-		<child name="KeywordTests" key="{CFA4F5EB-566B-4750-A029-BBD120AB85CB}" type="Keyword Testing" typeId="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" pluginName="Keyword Testing">
-			<data path="KeywordTests\KeywordTests.tcKDT" />
-		</child>
 		<child name="Script" key="{3A40677C-790A-4268-B48C-F4E45EEE920E}" type="Script" typeId="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" pluginName="Script">
 			<data path="Script\Script.tcScript" />
 		</child>

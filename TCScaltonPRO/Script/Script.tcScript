@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
 	<children>
-		<child name="Unit1" key="{0CA4E74E-4CDB-4B61-BA42-7F315941B996}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
-			<data path="Unit1.js" />
+		<child name="POM_Class" key="{3CE9B63C-D543-456F-A09D-C6032EDE4353}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="POM_Class.js" />
+		</child>
+		<child name="Reusable" key="{CBF7D830-08B4-4A6E-B961-5E02E745862E}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Reusable.js" />
+		</child>
+		<child name="Test_Class" key="{0351FFE3-067D-43DF-BCE6-136B83D179F0}" type="Script Unit" typeId="{291CAE9C-4D20-4F33-8B5F-D48B587F3D65}" pluginName="Script">
+			<data path="Test_Class.js" />
 		</child>
 	</children>
-	<folders />
+	<folders>
+		<folder caption="POM_Class" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{3CE9B63C-D543-456F-A09D-C6032EDE4353}" />
+			</references>
+		</folder>
+		<folder caption="Reusable" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{CBF7D830-08B4-4A6E-B961-5E02E745862E}" />
+			</references>
+		</folder>
+		<folder caption="Test_Class" description="A logical folder that is used to organize project items and elements." moniker="">
+			<references>
+				<ref key="{0351FFE3-067D-43DF-BCE6-136B83D179F0}" />
+			</references>
+		</folder>
+	</folders>
 </Root>
